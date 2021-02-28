@@ -30,8 +30,8 @@ for (const files of folders) {
       code: command.code, 
       nonPrefixed: command.nonPrefixed
     })
-   ) 
- ) 
+   }
+ }
 bot.variables({
     Bank: "0",
     Money: "100",
